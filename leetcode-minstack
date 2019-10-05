@@ -32,16 +32,11 @@ class MinStack:
 
     def getMin(self) -> int:
         i=0
-        for i in range(len(self.item)):    
-            if self.item[i-1]<self.item[i]:
-                self.tempmin=self.item[i-1]
-                i+=1 
-                return self.tempmin
-            elif self.item[i-1]<self.item[i]:
-                self.tempmin=self.item[i-1]
-                i+=1 
-                return self.min
-                
+        for i in range(len(self.item)):
+            i+=1
+            self.min= min(self.item)
+            return self.min
+            
                 
      
 
