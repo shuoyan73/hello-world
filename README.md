@@ -24,4 +24,7 @@ week5:
 
 
 
-week6:
+week6:heap sort
+
+
+week7:merge sort
