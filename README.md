@@ -4,7 +4,7 @@
 此為資料結構演算法筆記
 
 week1:design linked list 
-[design linked list](
+[design linked list][leetcode-MyLinkedList(week1 連結串列）]
 
 
 week2:stack quene
