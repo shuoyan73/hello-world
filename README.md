@@ -11,7 +11,7 @@ week2:stack quene
 
 
 
-week3:insertion sort  :insertion sort list (week3插入排序法） 
+week3:insertion sort  :
  
  
 week4:quick sort
