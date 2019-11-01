@@ -1,4 +1,4 @@
-class MyLinkedList:
+class BinaryTree:
 
     def __init__(self,left,right):
         """
