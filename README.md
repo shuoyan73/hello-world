@@ -21,3 +21,8 @@ week6:heap sort
 
 
 week7:merge sort
+
+
+如果打不開 在github裡面的jupyter notebook 
+可以用這個方式開啟：
+https://nbviewer.jupyter.org/
