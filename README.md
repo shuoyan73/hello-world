@@ -4,8 +4,9 @@
 
 # 檔案架構
 
-# HW1:https://github.com/shuoyan73/hello-world/tree/master/HW1
->>https://github.com/shuoyan73/hello-world/blob/master/HW1/quicksort%20%E6%8B%B7%E8%B2%9D.py
+# HW1:
+
+>>快速排序法：https://github.com/shuoyan73/hello-world/blob/master/HW1/quicksort%20%E6%8B%B7%E8%B2%9D.py
 
 # HW2:
 >>Mergesort文字說明.pdf:https://github.com/shuoyan73/hello-world/blob/master/HW2/Mergesort%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.pdf
@@ -58,10 +59,7 @@ binary_search_tree_05170221.py:https://github.com/shuoyan73/hello-world/blob/mas
 
 
 
-
-
-
-
+# 資料結構與演算法上課內容整理＆課後心得
 
 week1:課程介紹
 
