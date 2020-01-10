@@ -2,6 +2,65 @@
 
 此為資料結構演算法筆記
 
+#檔案架構
+
+>HW1:https://github.com/shuoyan73/hello-world/tree/master/HW1
+>>https://github.com/shuoyan73/hello-world/blob/master/HW1/quicksort%20%E6%8B%B7%E8%B2%9D.py
+
+>HW2:
+>>Mergesort文字說明.pdf:https://github.com/shuoyan73/hello-world/blob/master/HW2/Mergesort%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.pdf
+>>heap_sort_05170221.py:https://github.com/shuoyan73/hello-world/blob/master/HW2/heap_sort_05170221.py
+>>heapsort_mergesort比較.pdf:https://github.com/shuoyan73/hello-world/blob/master/HW2/heapsort_mergesort%E6%AF%94%E8%BC%83.pdf
+>>heapsort文字說明 (1).pdf:https://github.com/shuoyan73/hello-world/blob/master/HW2/heapsort%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E%20(1).pdf
+>>merge_sort_05170221.py:https://github.com/shuoyan73/hello-world/blob/master/HW2/merge_sort_05170221.py
+>HW3:
+>>Binary search Tree (1)流程圖與學習歷程與BST原理.ipynb:https://github.com/shuoyan73/hello-world/blob/master/HW3/Binary%20search%20Tree%20%20(1)%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87BST%E5%8E%9F%E7%90%86.ipynb
+>>Binary search Tree 新增刪除查詢修改功能說明.pdf:https://github.com/shuoyan73/hello-world/blob/master/HW3/Binary%20search%20Tree%20%E6%96%B0%E5%A2%9E%E5%88%AA%E9%99%A4%E6%9F%A5%E8%A9%A2%E4%BF%AE%E6%94%B9%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E.pdf
+binary_search_tree_05170221.py:https://github.com/shuoyan73/hello-world/blob/master/HW3/binary_search_tree_05170221.py
+
+>HW4
+>>Hash Table 流程圖,學習歷程，Hash Table&Hash Function 原理 最新版.ipynb:https://github.com/shuoyan73/hello-world/blob/master/HW4/Hash%20Table%20%E6%B5%81%E7%A8%8B%E5%9C%96%2C%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%EF%BC%8CHash%20Table%26Hash%20Function%20%E5%8E%9F%E7%90%86%20%E6%9C%80%E6%96%B0%E7%89%88.ipynb
+>>hash_table_05170221.py:https://github.com/shuoyan73/hello-world/blob/master/HW4/hash_table_05170221.py
+
+
+
+
+>HW5
+>>BFS_05170221.py :https://github.com/shuoyan73/hello-world/blob/master/HW5/BFS_05170221.py
+>>BFS廣度優先搜尋＆DFS深度優先搜尋 (1).ipynb:https://github.com/shuoyan73/hello-world/blob/master/HW5/BFS%E5%BB%A3%E5%BA%A6%E5%84%AA%E5%85%88%E6%90%9C%E5%B0%8B%EF%BC%86DFS%E6%B7%B1%E5%BA%A6%E5%84%AA%E5%85%88%E6%90%9C%E5%B0%8B%20(1).ipynb
+
+
+
+>HW6
+>>Dijkstra_05170221.py:https://github.com/shuoyan73/hello-world/blob/master/HW6/Dijkstra_05170221.py
+>>Dijkstra與Kruskal流程圖 程式碼學習歷程與Dijkstra與Kruskal原理說明.ipynb:https://github.com/shuoyan73/hello-world/blob/master/HW6/Dijkstra%E8%88%87Kruskal%E6%B5%81%E7%A8%8B%E5%9C%96%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87Dijkstra%E8%88%87Kruskal%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E.ipynb
+
+
+
+
+
+Leetcode
+>https://github.com/shuoyan73/hello-world/tree/master/Leetcode
+>>https://github.com/shuoyan73/hello-world/blob/master/Leetcode/147%23_Insertion%20Sort%20List_05170221.py
+>>https://github.com/shuoyan73/hello-world/blob/master/Leetcode/155%23_Min%20Stack_05170221.py
+>>https://github.com/shuoyan73/hello-world/blob/master/Leetcode/225%23_Implement%20Stack%20using%20Queues_05170221.py
+>>https://github.com/shuoyan73/hello-world/blob/master/Leetcode/232%23_Implement%20Queue%20using%20Stacks_05170221.py
+>>https://github.com/shuoyan73/hello-world/blob/master/Leetcode/283%23_Move%20Zeroes_05170221.py
+
+CS50
+>https://github.com/shuoyan73/hello-world/tree/master/CS50
+>> https://www.youtube.com/watch?v=9qvt6MwBKZQ
+
+
+
+
+
+
+
+
+
+
+
 week1:課程介紹
 
 
